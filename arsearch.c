@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //aadhil fottan
 void main()
 {
 int Ar[20],n,x,b,i;
